@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NoticiasAPI", "NoticiasAPI\NoticiasAPI.csproj", "{FF495AD8-8EF0-475C-B4B2-8F12A26063BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NoticiasClases", "NoticiasClases\NoticiasClases.csproj", "{0B6235B2-5141-4F2D-92EC-B52FC3F98978}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF495AD8-8EF0-475C-B4B2-8F12A26063BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF495AD8-8EF0-475C-B4B2-8F12A26063BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF495AD8-8EF0-475C-B4B2-8F12A26063BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF495AD8-8EF0-475C-B4B2-8F12A26063BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B6235B2-5141-4F2D-92EC-B52FC3F98978}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B6235B2-5141-4F2D-92EC-B52FC3F98978}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B6235B2-5141-4F2D-92EC-B52FC3F98978}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B6235B2-5141-4F2D-92EC-B52FC3F98978}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+/Users/martin/Desktop/HomeWork/Noticias/Noticias-Backend/Noticias-Backend/NoticiasClases/bin/Debug/net6.0/NoticiasClases.deps.json
+/Users/martin/Desktop/HomeWork/Noticias/Noticias-Backend/Noticias-Backend/NoticiasClases/bin/Debug/net6.0/NoticiasClases.dll
+/Users/martin/Desktop/HomeWork/Noticias/Noticias-Backend/Noticias-Backend/NoticiasClases/bin/Debug/net6.0/NoticiasClases.pdb
+/Users/martin/Desktop/HomeWork/Noticias/Noticias-Backend/Noticias-Backend/NoticiasClases/obj/Debug/net6.0/NoticiasClases.csproj.AssemblyReference.cache
+/Users/martin/Desktop/HomeWork/Noticias/Noticias-Backend/Noticias-Backend/NoticiasClases/obj/Debug/net6.0/NoticiasClases.GeneratedMSBuildEditorConfig.editorconfig
+/Users/martin/Desktop/HomeWork/Noticias/Noticias-Backend/Noticias-Backend/NoticiasClases/obj/Debug/net6.0/NoticiasClases.AssemblyInfoInputs.cache
+/Users/martin/Desktop/HomeWork/Noticias/Noticias-Backend/Noticias-Backend/NoticiasClases/obj/Debug/net6.0/NoticiasClases.AssemblyInfo.cs
+/Users/martin/Desktop/HomeWork/Noticias/Noticias-Backend/Noticias-Backend/NoticiasClases/obj/Debug/net6.0/NoticiasClases.csproj.CoreCompileInputs.cache
+/Users/martin/Desktop/HomeWork/Noticias/Noticias-Backend/Noticias-Backend/NoticiasClases/obj/Debug/net6.0/NoticiasClases.dll
+/Users/martin/Desktop/HomeWork/Noticias/Noticias-Backend/Noticias-Backend/NoticiasClases/obj/Debug/net6.0/refint/NoticiasClases.dll
+/Users/martin/Desktop/HomeWork/Noticias/Noticias-Backend/Noticias-Backend/NoticiasClases/obj/Debug/net6.0/NoticiasClases.pdb
+/Users/martin/Desktop/HomeWork/Noticias/Noticias-Backend/Noticias-Backend/NoticiasClases/obj/Debug/net6.0/ref/NoticiasClases.dll
